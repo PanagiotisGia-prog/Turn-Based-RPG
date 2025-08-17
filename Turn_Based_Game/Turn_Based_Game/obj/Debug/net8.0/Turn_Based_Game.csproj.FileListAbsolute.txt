@@ -1,0 +1,14 @@
+D:\dotnet\Turn_Based_Game\Turn_Based_Game\bin\Debug\net8.0\Turn_Based_Game.exe
+D:\dotnet\Turn_Based_Game\Turn_Based_Game\bin\Debug\net8.0\Turn_Based_Game.deps.json
+D:\dotnet\Turn_Based_Game\Turn_Based_Game\bin\Debug\net8.0\Turn_Based_Game.runtimeconfig.json
+D:\dotnet\Turn_Based_Game\Turn_Based_Game\bin\Debug\net8.0\Turn_Based_Game.dll
+D:\dotnet\Turn_Based_Game\Turn_Based_Game\bin\Debug\net8.0\Turn_Based_Game.pdb
+D:\dotnet\Turn_Based_Game\Turn_Based_Game\obj\Debug\net8.0\Turn_Based_Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Turn_Based_Game\Turn_Based_Game\obj\Debug\net8.0\Turn_Based_Game.AssemblyInfoInputs.cache
+D:\dotnet\Turn_Based_Game\Turn_Based_Game\obj\Debug\net8.0\Turn_Based_Game.AssemblyInfo.cs
+D:\dotnet\Turn_Based_Game\Turn_Based_Game\obj\Debug\net8.0\Turn_Based_Game.csproj.CoreCompileInputs.cache
+D:\dotnet\Turn_Based_Game\Turn_Based_Game\obj\Debug\net8.0\Turn_Based_Game.dll
+D:\dotnet\Turn_Based_Game\Turn_Based_Game\obj\Debug\net8.0\refint\Turn_Based_Game.dll
+D:\dotnet\Turn_Based_Game\Turn_Based_Game\obj\Debug\net8.0\Turn_Based_Game.pdb
+D:\dotnet\Turn_Based_Game\Turn_Based_Game\obj\Debug\net8.0\Turn_Based_Game.genruntimeconfig.cache
+D:\dotnet\Turn_Based_Game\Turn_Based_Game\obj\Debug\net8.0\ref\Turn_Based_Game.dll
